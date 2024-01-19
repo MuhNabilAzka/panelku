@@ -1,7 +1,3 @@
-Panel Pterodactyl Command by RynXD
-
-Isi file docker-compose.yml :
-
 version: '3.8'
 x-common:
   database:
